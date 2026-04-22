@@ -6,3 +6,6 @@ obj/
 .vs/
 packages/
 *.nupkg
+
+# Secrets — copy from secrets.config.template and fill in before deploy
+src/CeskaRepublika.CzProxy/secrets.config
