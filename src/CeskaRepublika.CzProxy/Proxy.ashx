@@ -29,6 +29,7 @@ namespace CeskaRepublika.CzProxy
             "nova-ott-vod-prep-sec.ssl.cdn.cra.cz",
             "prehraj.to",
             "premiumcdn.net",
+            "sktorrent.eu",
             "sledujteto.cz"
         };
 
